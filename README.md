@@ -1,0 +1,1 @@
+# loopback-connector-for-influxdb
